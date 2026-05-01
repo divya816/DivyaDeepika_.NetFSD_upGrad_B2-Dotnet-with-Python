@@ -1,0 +1,12 @@
+{
+  "name": "employee-management-dashboard",
+  "version": "1.0.0",
+  "description": "AuroraHR frontend-only employee management system",
+  "main": "index.html",
+  "scripts": {
+    "test": "node ./node_modules/jest/bin/jest.js"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
